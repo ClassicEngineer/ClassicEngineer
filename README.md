@@ -4,3 +4,5 @@
 - 📫 How to reach me ... it is a secret(shhhh)
 
 Why this github is so empty? Because my previous two github accounts were deleted and this account is new one. Fortunately, there was only trash-code which is a shame to show 😌
+
+See my [blog](https://doka.blog) to get an additional info about me. 
